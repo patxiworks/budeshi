@@ -8,439 +8,259 @@
   "publishedDate": "2016-02-29T00:00:00Z",
   "license": null,
   "publicationPolicy": null,
-  "releases": [{
-    "ocid": "ocds-azam7x-p9vbu0ng-nphda",
-    "id": "ocds-azam7x-p9vbu0ng-nphda-release-001",    
-    "date": "2016-02-29T00:00:00Z",    
-    "tag": [
-      "planning","tender","award","contract"
-    ],
-    "initiationType": "tender",
-    "language": "en",
-    "planning": {
-      "documents": [
-        {
-          "description": "Construction And Equipping Of Model Primary Healthcare Centre Tudun Wada Lga Kano",
-          "language": "English",
-          "format": "application/pdf",
-          "url": "http://ow.ly/TNgMm",
-          "title": "Construction And Equipping Of Model Primary Healthcare Centre Tudun Wada Lga Kano",
-          "datePublished": null,
-          "documentType": "Procurement Plan",
-          "id": "ocds-azam7x-p9vbu0ng-nphda-planning-doc-001",
-          "dateModified": null
-        }
+  "releases": [
+    {
+      "ocid": "ocds-azam7x-p9vbu0ng-nphda",
+      "id": "ocds-azam7x-p9vbu0ng-nphda-release-001",
+      "date": "2016-02-29T00:00:00Z",
+      "tag": [
+        "planning",
+        "tender",
+        "award",
+        "contract"
       ],
-      "budget": {
-        "description": "Construction And Equipping Of Model Primary Healthcare Centre Tudun Wada Lga Kano",
-        "projectID": 1,
-        "uri": "http://ow.ly/TNgMm",
-        "project": "Construction And Equipping Of Model Primary Healthcare Centre Tudun Wada Lga Kano",
-        "source": null,
-        "amount": {
-          "currency": "NGN",
-          "amount": 38000000
-        },
-        "id": 1
-      },
-      "rationale": "Construction of Primary Health Care Centres"
-    },
-    "tender": {
-      "id": "ocds-azam7x-p9vbu0ng-nphda-tender-001",
-      "procurementMethod": "open",
-      "awardPeriod": {
-        "startDate": null,
-        "endDate": null
-      },
-      "awardCriteria": "Least Cost Responsive ",
-      "enquiryPeriod": {
-        "startDate": null,
-        "endDate": null
-      },
-      "minValue": {
-        "currency": "NGN",
-        "amount": null
-      },
-      "numberOfTenderers": null,
-      "value": {
-        "currency": "NGN",
-        "amount": null
-      },
-      "tenderers": [
-        {
-          "additionalIdentifiers": [
-            {
-              "scheme": "",
-              "id": "",
-              "uri": null,
-              "legalName": ""
-            }
-          ],
-          "amountTendered": {
-            "currency": "NGN",
-            "amount": null
-          },
-          "name": "",
-          "address": {
-            "postalCode": "",
-            "countryName": "",
-            "streetAddress": "",
-            "region": "",
-            "locality": ""
-          },
-          "contactPoint": {
-            "url": null,
-            "faxNumber": "",
-            "telephone": "",
-            "name": "",
-            "email": ""
-          },
-          "identifier": {
-            "scheme": "",
-            "id": "",
-            "uri": null,
-            "legalName": ""
+      "initiationType": "tender",
+      "language": "en",
+      "planning": {
+        "documents": [
+          {
+            "description": "Construction And Equipping Of Model Primary Healthcare Centre Tudun Wada Lga Kano",
+            "language": "English",
+            "format": "application/pdf",
+            "url": "http://ow.ly/TNgMm",
+            "title": "Construction And Equipping Of Model Primary Healthcare Centre Tudun Wada Lga Kano",
+            "datePublished": null,
+            "documentType": "Procurement Plan",
+            "id": "ocds-azam7x-p9vbu0ng-nphda-planning-doc-001",
+            "dateModified": null
           }
-        }
-      ],
-      "tenderPeriod": {
-        "startDate": null,
-        "endDate": null
-      },
-      "documents": [
-        {
+        ],
+        "budget": {
           "description": "Construction And Equipping Of Model Primary Healthcare Centre Tudun Wada Lga Kano",
-          "language": "",
-          "title": "Construction And Equipping Of Model Primary Healthcare Centre Tudun Wada Lga Kano",
-          "url": null,
-          "format": "",
-          "datePublished": null,
-          "documentType": "",
-          "dateModified": null,
-          "id": ""
-        }
-      ],
-      "title": "",
-      "procurementMethodRationale": "",
-      "status": null,
-      "eligibilityCriteria": "",
-      "description": "",
-      "submissionMethod": null,
-      "submissionMethodDetails": "",
-      "items": [
-        {
-          "description": "",
-          "classification": {
-            "scheme": "",
-            "id": "",
-            "uri": null,
-            "description": ""
+          "projectID": 1,
+          "uri": "http://ow.ly/TNgMm",
+          "project": "Construction And Equipping Of Model Primary Healthcare Centre Tudun Wada Lga Kano",
+          "source": null,
+          "amount": {
+            "currency": "NGN",
+            "amount": 38000000
           },
-          "additionalClassifications": [
-            {
-              "scheme": "",
-              "id": "",
-              "uri": null,
-              "description": ""
-            }
-          ],
-          "id": "",
-          "unit": {
-            "name": "",
-            "value": {
+          "id": 1
+        },
+        "rationale": "Construction of Primary Health Care Centres"
+      },
+      "tender": {
+        "id": "ocds-azam7x-p9vbu0ng-nphda-tender-001",
+        "procurementMethod": "open",
+        "awardPeriod": {
+          "startDate": null,
+          "endDate": null
+        },
+        "awardCriteria": "Least Cost Responsive ",
+        "enquiryPeriod": {
+          "startDate": null,
+          "endDate": null
+        },
+        "minValue": {
+          "currency": "NGN",
+          "amount": null
+        },
+        "numberOfTenderers": null,
+        "value": {
+          "currency": "NGN",
+          "amount": null
+        },
+        "tenderers": [
+          {
+            "additionalIdentifiers": [
+              {
+                "scheme": null,
+                "id": null,
+                "uri": null,
+                "legalName": null
+              }
+            ],
+            "amountTendered": {
               "currency": "NGN",
               "amount": null
+            },
+            "name": null,
+            "address": {
+              "postalCode": null,
+              "countryName": null,
+              "streetAddress": null,
+              "region": null,
+              "locality": null
+            },
+            "contactPoint": {
+              "url": null,
+              "faxNumber": null,
+              "telephone": null,
+              "name": null,
+              "email": null
+            },
+            "identifier": {
+              "scheme": null,
+              "id": null,
+              "uri": null,
+              "legalName": null
             }
+          }
+        ],
+        "tenderPeriod": {
+          "startDate": null,
+          "endDate": null
+        },
+        "title": null,
+        "procurementMethodRationale": null,
+        "status": null,
+        "eligibilityCriteria": null,
+        "description": null,
+        "submissionMethod": null,
+        "submissionMethodDetails": null,
+        "awardCriteriaDetails": null,
+        "hasEnquiries": null,
+        "procuringEntity": {
+          "additionalIdentifiers": [
+            {
+              "scheme": null,
+              "id": null,
+              "uri": null,
+              "legalName": null
+            }
+          ],
+          "contactPoint": {
+            "url": null,
+            "faxNumber": null,
+            "telephone": null,
+            "name": null,
+            "email": null
           },
-          "quantity": null
+          "identifier": {
+            "scheme": null,
+            "id": null,
+            "uri": "http://www.nphcda.gov.ng/",
+            "legalName": "National Primary Healthcare Development Agency "
+          },
+          "name": null,
+          "address": {
+            "postalCode": "900284",
+            "countryName": "Nigeria",
+            "streetAddress": "Plot 68/682 Port-Harcourt Crescent, Off Gimbiya Street",
+            "region": "Abuja, Fct",
+            "locality": "Garki"
+          }
         }
-      ],
-      "awardCriteriaDetails": "",
-      "hasEnquiries": null,
-      "procuringEntity": {
+      },
+      "buyer": {
         "additionalIdentifiers": [
           {
-            "scheme": "",
-            "id": "",
-            "uri": null,
-            "legalName": ""
+            "scheme": null,
+            "legalName": null,
+            "id": null,
+            "uri": null
           }
         ],
         "contactPoint": {
           "url": null,
-          "faxNumber": "",
-          "telephone": "",
-          "name": "",
-          "email": ""
+          "telephone": null,
+          "email": null,
+          "name": null,
+          "faxNumber": null
         },
         "identifier": {
-          "scheme": "",
-          "id": "",
-          "uri": "http://www.nphcda.gov.ng/",
-          "legalName": "National Primary Healthcare Development Agency "
+          "scheme": null,
+          "legalName": "National Primary Healthcare Development Agency",
+          "id": "ocds-azam7x-p9vbu0ng-nphda-buyer-001",
+          "uri": "http://www.nphcda.gov.ng/"
         },
-        "name": "",
+        "name": "National Primary Healthcare Development Agency",
         "address": {
-          "postalCode": "900284",
+          "postalCode": "0",
           "countryName": "Nigeria",
           "streetAddress": "Plot 68/682 Port-Harcourt Crescent, Off Gimbiya Street",
-          "region": "Abuja, Fct",
-          "locality": "Garki"
+          "region": "Abuja,Fct",
+          "locality": "Area11Garki "
         }
-      }
-    },
-    "buyer": {
-      "additionalIdentifiers": [
+      },
+      "awards": [
         {
-          "scheme": "",
-          "legalName": "",
-          "id": "",
-          "uri": null
-        }
-      ],
-      "contactPoint": {
-        "url": null,
-        "telephone": "",
-        "email": "",
-        "name": "",
-        "faxNumber": ""
-      },
-      "identifier": {
-        "scheme": "",
-        "legalName": "National Primary Healthcare Development Agency",
-        "id": "ocds-azam7x-p9vbu0ng-nphda-buyer-001",
-        "uri": "http://www.nphcda.gov.ng/"
-      },
-      "name": "National Primary Healthcare Development Agency",
-      "address": {
-        "postalCode": "0",
-        "countryName": "Nigeria",
-        "streetAddress": "Plot 68/682 Port-Harcourt Crescent, Off Gimbiya Street",
-        "region": "Abuja,Fct",
-        "locality": "Area11Garki "
-      }
-    },
-    "awards": [
-      {
-        "id": "ocds-azam7x-p9vbu0ng-nphda-awards-001",
-        "status": null,
-        "amendment": {
-          "date": null,
-          "changes": [],
-          "rationale": "Final Acceptance "
-        },
-        "documents": [
-          {
-            "description": "Construction And Equipping Of Model Primary Healthcare Centre Tudun Wada Lga Kano",
-            "language": "",
-            "format": "",
-            "url": null,
-            "title": "Construction And Equipping Of Model Primary Healthcare Centre Tudun Wada Lga Kano",
-            "datePublished": null,
-            "documentType": "",
-            "id": "",
-            "dateModified": null
-          }
-        ],
-        "description": "",
-        "title": "",
-        "items": [
-          {
-            "description": "",
-            "classification": {
-              "id": "",
-              "scheme": "",
-              "description": "",
-              "uri": null
-            },
-            "additionalClassifications": [
-              {
-                "id": "",
-                "scheme": "",
-                "description": "",
-                "uri": null
-              }
-            ],
-            "id": "",
-            "unit": {
-              "name": "",
-              "value": {
-                "currency": "NGN",
-                "amount": null
-              }
-            },
-            "quantity": null
-          }
-        ],
-        "suppliers": [
-          {
-            "additionalIdentifiers": [
-              {
-                "scheme": "",
-                "legalName": "",
-                "id": "",
-                "uri": null
-              }
-            ],
-            "contactPoint": {
-              "url": null,
-              "telephone": "",
-              "email": "",
-              "name": "",
-              "faxNumber": ""
-            },
-            "identifier": {
-              "scheme": "",
-              "legalName": "Miagari Global Services Ltd",
-              "id": "",
-              "uri": null
-            },
-            "name": "",
-            "address": {
-              "postalCode": "",
-              "countryName": "",
-              "streetAddress": "",
-              "region": "",
-              "locality": ""
-            }
-          }
-        ],
-        "value": {
-          "currency": "NGN",
-          "amount": 21986893
-        },
-        "date": null,
-        "contractPeriod": {
-          "startDate": null,
-          "endDate": null
-        }
-      }
-    ],
-    "contracts": [
-      {
-        "id": "ocds-azam7x-p9vbu0ng-nphda-contracts-001",
-        "status": "active",
-        "amendment": {
-          "date": null,
-          "changes": [],
-          "rationale": "Final Acceptance"
-        },
-        "documents": [
-          {
-            "description": "Construction And Equipping Of Model Primary Healthcare Centre Tudun Wada Lga Kano",
-            "language": "",
-            "title": "Construction And Equipping Of Model Primary Healthcare Centre Tudun Wada Lga Kano",
-            "url": null,
-            "format": "",
-            "datePublished": null,
-            "documentType": "",
-            "dateModified": null,
-            "id": ""
-          }
-        ],
-        "description": "",
-        "title": "",
-        "implementation": {
-          "milestones": [
+          "id": "ocds-azam7x-p9vbu0ng-nphda-awards-001",
+          "status": null,
+          "amendment": {
+            "date": null,
+            "changes": [],
+            "rationale": "Final Acceptance "
+          },
+          "description": null,
+          "title": null,
+          "suppliers": [
             {
-              "status": null,
-              "documents": [
+              "additionalIdentifiers": [
                 {
-                  "description": "",
-                  "language": "",
-                  "title": "",
-                  "url": null,
-                  "format": "",
-                  "datePublished": null,
-                  "documentType": "",
-                  "dateModified": null,
-                  "id": ""
+                  "scheme": null,
+                  "legalName": null,
+                  "id": null,
+                  "uri": null
                 }
               ],
-              "description": "",
-              "title": "",
-              "id": "",
-              "dateModified": null,
-              "dueDate": null
+              "contactPoint": {
+                "url": null,
+                "telephone": null,
+                "email": null,
+                "name": null,
+                "faxNumber": null
+              },
+              "identifier": {
+                "scheme": null,
+                "legalName": "Miagari Global Services Ltd",
+                "id": null,
+                "uri": null
+              },
+              "name": null,
+              "address": {
+                "postalCode": null,
+                "countryName": null,
+                "streetAddress": null,
+                "region": null,
+                "locality": null
+              }
             }
           ],
-          "documents": [
-            {
-              "description": "",
-              "language": "",
-              "title": "",
-              "url": null,
-              "format": "",
-              "datePublished": null,
-              "documentType": "",
-              "dateModified": null,
-              "id": ""
-            }
-          ],
-          "transactions": [
-            {
-              "receiverOrganization": {
-                "scheme": "",
-                "id": "",
-                "uri": "http://www.nphcda.gov.ng/",
-                "legalName": "National Primary Healthcare Development Agency"
-              },
-              "amount": {
-                "currency": "NGN",
-                "amount": null
-              },
-              "uri": null,
-              "source": null,
-              "providerOrganization": {
-                "scheme": "",
-                "id": "",
-                "uri": null,
-                "legalName": ""
-              },
-              "date": null,
-              "id": ""
-            }
-          ]
-        },
-        "items": [
-          {
-            "description": "",
-            "classification": {
-              "scheme": "",
-              "id": "",
-              "uri": null,
-              "description": ""
-            },
-            "additionalClassifications": [
-              {
-                "scheme": "",
-                "id": "",
-                "uri": null,
-                "description": ""
-              }
-            ],
-            "id": "",
-            "unit": {
-              "name": "",
-              "value": {
-                "currency": "NGN",
-                "amount": null
-              }
-            },
-            "quantity": null
+          "value": {
+            "currency": "NGN",
+            "amount": 21986893
+          },
+          "date": null,
+          "contractPeriod": {
+            "startDate": null,
+            "endDate": null
           }
-        ],
-        "period": {
-          "startDate": null,
-          "endDate": null
-        },
-        "value": {
-          "currency": "NGN",
-          "amount": 21986893
-        },
-        "dateSigned": null,
-        "awardID": "ocds-azam7x-p9vbu0ng-nphda-awards-001"
-      }
-    ]
-  }]
+        }
+      ],
+      "contracts": [
+        {
+          "id": "ocds-azam7x-p9vbu0ng-nphda-contracts-001",
+          "status": "active",
+          "amendment": {
+            "date": null,
+            "changes": [],
+            "rationale": "Final Acceptance"
+          },
+          "description": null,
+          "title": null,
+          "period": {
+            "startDate": null,
+            "endDate": null
+          },
+          "value": {
+            "currency": "NGN",
+            "amount": 21986893
+          },
+          "dateSigned": null,
+          "awardID": "ocds-azam7x-p9vbu0ng-nphda-awards-001"
+        }
+      ]
+    }
+  ]
 }
